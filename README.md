@@ -121,6 +121,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote Coder](https://remotecoder.io/)
   1. [Remote OK](https://remoteok.io/) - scrapes many job board feeds for remote positions
   1. [RemoteWorkHunt] (http://www.remoteworkhunt.com/)
+  2. [RemoteJobs] (http://www.remotejobs.it/) - Easy global search for all remote it jobs
   1. [Remotive Jobs](http://jobs.remotive.io/)
   2. [Skip the Drive](http://www.skipthedrive.com/)
   2. [Virtual Vocations](http://www.virtualvocations.com/)
